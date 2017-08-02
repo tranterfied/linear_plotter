@@ -1,4 +1,4 @@
-from PyQt4 import QtCore, Qt
+from PyQt4 import QtCore
 from PyQt4.QtGui import *
 from scipy import stats
 import string

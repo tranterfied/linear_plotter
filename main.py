@@ -1,5 +1,4 @@
-from PyQt5 import QtCore, QtGui, Qt
-import numpy as np
+from PyQt4 import QtGui
 from app_classes import *
 
 def main():
